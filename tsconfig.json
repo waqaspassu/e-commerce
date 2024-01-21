@@ -2,6 +2,7 @@
   "compilerOptions": {
     "esModuleInterop": true,
     "target": "es5",
+    "types": ["next"],
     "lib": [
       "dom",
       "dom.iterable",
